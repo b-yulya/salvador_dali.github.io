@@ -1,0 +1,22 @@
+.scrollToTop {
+		display:block;
+		position:fixed;        
+        bottom:3vh;left:2vw;        
+        width:8vw;height:8vh;
+        background:#000000;
+        -webkit-border-radius:15px;
+        -moz-border-radius:15px;
+        border-radius:15px;
+        opacity: 0.4;
+		transition: all ease 1s;
+		text-decoration: none!important;
+		font-size: 7vh;
+		padding-bottom: 3vh;
+		text-align: center;
+		color:white;
+
+
+}
+.scrollToTop:hover{
+	opacity: 1;
+}

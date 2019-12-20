@@ -1,0 +1,32 @@
+body {
+	margin:0;
+	background: url(../img/fon10.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100%;
+	font-family: Open Sans Condensed;
+}
+
+
+
+.text {
+	
+	text-align:center;
+	text-indent: 1.5em;
+	margin: 20vh 20vw;
+	background:white;
+	width: 58.7vw;
+	height:auto;
+	background-size:100%;
+	position:absolute;
+}
+
+.text p{
+	padding:1vh 3vw;
+	font-size:3.5vh;
+}
+
+.text h2{
+	padding-top:5vh;
+	font-size:4.5vh;
+}

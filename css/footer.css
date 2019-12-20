@@ -1,0 +1,110 @@
+
+
+.fl {
+    background-color:#f0f0f0;
+	color: #2B2B2B!important;
+ }
+ 
+  .list-inline-item
+ {
+	margin-bottom: 2%;
+ }
+ 
+ .list-inline-item:hover
+ {
+
+    color: #ababab;
+ }
+
+  @media (max-width: 800px) {
+    #img {
+      width: 15%;
+      }
+    #img img{
+    width: 100%;
+    padding-right: 2%;
+	margin-top: 20%
+    }
+    #text{
+      padding-left: 4%;
+      padding-right: 4%;
+    }
+
+  }
+ .footerforp
+ {
+	    color: #2B2B2B!important;
+ }
+ 
+	#ccc:link
+{
+	color: #2B2B2B!important;
+}
+
+	#ccc
+{
+	color: #2B2B2B!important;
+}
+
+	#ccc:hover
+{
+	color: #828282!important;
+}
+
+	#ccc111:hover
+{
+	color: #828282!important;
+}
+   .scale {
+	margin-bottom: 20px;
+	margin-top: 20px;
+    transition: 1s;
+   }
+   .scale:hover {
+    transform: scale(1.1); /* Увеличиваем масштаб */
+   }
+#tttt
+	{
+	font-family: 'Roboto Slab', serif;
+    font-weight: lighter; 
+	font-size: 1.2em;
+	color: #807a7a!important;
+	}
+	
+#tttt:hover
+	{
+	color: #a39e9e!important;
+	text-decoration:underline;
+	}
+	
+   .scale1 {
+    transition: 1s;
+   }
+   .scale1:hover {
+   transform: scale(1.1)}
+	
+ #foot
+ {
+	float: center;
+    background-color:#f0f0f0;
+	color: #2B2B2B!important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display:block;
+    font-size:15pt;
+    font-family: 'Roboto Slab';
+ }
+ #tbtb {
+    margin-right: 60%;
+    margin-left: 60%;
+  }
+ 
+  FIO,YEAR{
+    font-style:italic;
+	font-size:13pt;
+
+  }
+  FAC,SPEC,GR{
+	font-size:13pt;
+    font-style:italic;
+  }

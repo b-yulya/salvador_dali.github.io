@@ -1,0 +1,35 @@
+.sl_ctr{
+top:20vh;
+left:28vw;
+position:relative;
+width:50vw;
+height:70vh;
+overflow:hidden;
+}
+.sldr{
+position:relative;
+width:10000px;
+height:70vh;
+}
+.sldr img{
+float:left; width:50vw; height:70vh;
+}
+.prv_b, .nxt_b{
+position:absolute;
+display:block;
+cursor:pointer;
+}
+.prv_b:hover, .nxt_b:hover{opacity:.6;}
+.prv_b{
+left:0vw;
+bottom:30vh;
+}
+.nxt_b{
+right:0vw;
+bottom:30vh;
+}
+
+img.prv_b, img.nxt_b {width:5vw; height:5vh;}
+
+#prv img{width:5vw;}
+#nxt img{width:5vw;}

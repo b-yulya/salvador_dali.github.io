@@ -1,0 +1,12 @@
+.str {
+	position:relative;
+	background-size: auto 100%;
+	height: 100vh;
+	width: 98.7vw;
+}
+
+#str1 { background-color: #F8AB43; }
+#str2 { background-image: url(../img/fon2.jpg); }
+#str3 { background-color: #ECF5B1; }
+#str4 { background-image: url(../img/fon3.jpeg); }
+#str5 { background-color: #0076D6; }

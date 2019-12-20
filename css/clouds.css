@@ -1,0 +1,25 @@
+#must1{
+    left: 6vw;
+    top: 75vh;
+    height:5vh;
+    position: absolute;
+}
+#must2{
+    left: 12vw;
+    top: 50vh;
+	height:5.5vh;
+	position: absolute;
+}
+#must3{
+    left: 78vw;
+    top: 50vh;
+	height:5vh;
+	position: absolute;
+}
+#must4{
+    left: 86vw;
+    top: 70vh;
+	height:5vh;
+	width:8vw;
+	position: absolute;
+}

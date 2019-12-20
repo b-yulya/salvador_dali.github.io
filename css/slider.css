@@ -1,0 +1,38 @@
+.sliderstr1{
+	position:absolute;
+	top: 30vh;
+	left:60vw;
+	
+}
+
+.slider img{
+	height: 25vw;
+	position:absolute;
+	opacity: 1;
+	transition: all ease 1s;
+}
+
+.slider .opacity0{
+	opacity: 0;
+}
+
+#sl2 {  }
+
+#title {
+	position:absolute;
+	top: 30vh;
+	left:20vw;
+	width:30vw;
+		   -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+
+#title:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+
